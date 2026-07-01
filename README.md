@@ -1,7 +1,7 @@
 SOFTWARE_ENGINEERING_GROUP6_BSEM1201
 Career Guidance & Student Support Portal
 
-A mobile application empowering African students to plan and navigate their career journeys through personalized career assessment, mentorship, learning resources, and scholarship discovery — all in one accessible platform.
+A mobile application empowering African students to plan and navigate their career journeys through personalized career assessment, mentorship, learning resources, and scholarship discovery all in one accessible platform.
 
 Built in alignment with UN Sustainable Development Goal 4: Quality Education (Targets 4.4 and 4.6).
 
@@ -13,12 +13,12 @@ Students in underserved and rural communities across Africa face a critical chal
 
  Key Features
 
-- Career Assessment — Personalized assessments grounded in Holland's RIASEC theory, generating tailored career roadmaps
-- Mentor Connect — Real-time chat with professional mentors and counselors
-- Learning Resources — Downloadable past papers, study guides, and video tutorials (offline-accessible)
-- Scholarships & Opportunities — Curated scholarships, internships, and training programs
-- Progress Tracker — Milestone-based progress tracking with achievement badges
-- SDG Impact Dashboard — Real-time statistics on platform reach and impact
+- Career Assessment Personalized assessments grounded in Holland's RIASEC theory, generating tailored career roadmaps
+- Mentor Connect Real-time chat with professional mentors and counselors
+- Learning Resources Downloadable past papers, study guides, and video tutorials (offline-accessible)
+- Scholarships & Opportunities Curated scholarships, internships, and training programs
+- Progress Tracker Milestone-based progress tracking with achievement badges
+- SDG Impact Dashboard Real-time statistics on platform reach and impact
 
 
 
@@ -42,9 +42,9 @@ Tech Stack
 
 The system follows a Three-Tier Client-Server Architecture:
 
-- Presentation Layer — React Native mobile app (Android & iOS)
-- Application Layer — Node.js/Express backend handling business logic via RESTful API
-- Data Layer — Firebase Firestore, storing Users, Careers, Resources, Mentors, Opportunities, and Progress data
+- Presentation Layer React Native mobile app (Android & iOS)
+- Application Layer Node.js/Express backend handling business logic via RESTful API
+- Data Layer Firebase Firestore, storing Users, Careers, Resources, Mentors, Opportunities, and Progress data
 
 See `/docs` for full architecture diagrams, UML models (Use Case, Class, Activity diagrams), and detailed component descriptions.
 
@@ -130,13 +130,13 @@ Contributions are welcome. Please open an issue to discuss proposed changes befo
 
 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details. The MIT License was chosen for its compatibility with the Digital Public Goods Standard, enabling free use, modification, and distribution by schools, NGOs, and governments.
+This project is licensed under the MIT License see the [LICENSE](LICENSE) file for details. The MIT License was chosen for its compatibility with the Digital Public Goods Standard, enabling free use, modification, and distribution by schools, NGOs, and governments.
 
 
 
 Acknowledgements
 
-- Holland, J. L. (1959) — Theory of Vocational Choice (RIASEC)
-- Super, D. E. (1980) — Life-Span, Life-Space Theory
-- United Nations — 2030 Agenda for Sustainable Development
+- Holland, J. L. (1959) Theory of Vocational Choice (RIASEC)
+- Super, D. E. (1980)  Life-Span, Life-Space Theory
+- United Nations  2030 Agenda for Sustainable Development
 - Digital Public Goods Alliance — DPG Standard v1.1.5
